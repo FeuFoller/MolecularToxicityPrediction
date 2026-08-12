@@ -1,0 +1,7 @@
+{
+    "fingerprint": "Morgan",
+    "radius": 2,
+    "n_bits": 2048,
+    "target": "NR-ER",
+    "threshold": 0.5
+}
